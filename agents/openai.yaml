@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品证据化拆解"
+  short_description: "从页面证据还原用户旅程、Agent 契约与产品架构"
+  default_prompt: "使用 $reverse-ai-product 从截图、聊天、画布和资产证据中还原产品流程、Agent 协作与全景架构。"
